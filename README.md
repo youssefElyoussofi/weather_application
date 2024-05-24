@@ -1,16 +1,38 @@
-# weather_app
 
-A new Flutter project.
+# Weather App
 
-## Getting Started
+![Weather App Banner](https://raw.githubusercontent.com/youssefElyoussofi/weather_application/main/app_screenshots/screens.png)
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+Welcome to the Weather App, a Flutter application that provides real-time weather updates using the [WeatherAPI](https://www.weatherapi.com/) API. This app utilizes the Bloc and Cubit architecture for state management and offers dynamic background color changes based on weather conditions.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Real-time Weather Updates**: Get accurate weather forecasts for your location.
+- **Bloc and Cubit Architecture**: Efficient state management for a smooth user experience.
+- **Dynamic Background Colors**: Background color changes dynamically based on the current weather condition.
+- **Search Functionality**: Search for weather information in any city worldwide.
+- **Detailed Weather Data**: View detailed weather information including temperature, humidity, wind speed, and more.
+
+## Built With
+
+- [Flutter](https://flutter.dev/)
+- [Bloc / Cubit](https://pub.dev/packages/flutter_bloc)
+- [Dio](https://pub.dev/packages/dio)
+
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Contact
+
+For any inquiries or feedback, please contact at [LinkedIn](https://www.linkedin.com/in/youssef-el-youssofi-87780b212/) 
+
+
