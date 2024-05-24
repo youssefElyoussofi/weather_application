@@ -1,0 +1,4 @@
+#Wed May 08 12:52:27 WEST 2024
+base.0=/Users/yusufgomez/Desktop/Flutter Courses/Udemy Course/weather_app_setup/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
